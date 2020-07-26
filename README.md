@@ -13,6 +13,12 @@ this provides a clear visual distinction between the two.
 
 ![Private repos](private.png)
 
+## Installation
+
+Install from [addons.mozilla.org][amo].
+
+[amo]: https://addons.mozilla.org/en-US/firefox/addon/private-github-header/
+
 ## Developing
 
 Use the [`web-ext`](https://github.com/mozilla/web-ext) tool to develop, test,
