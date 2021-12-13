@@ -36,3 +36,13 @@ web-ext build
 
 For now I've been manually uploading the extension to addons.mozilla.org rather
 than trying to set up `web-ext sign`.
+
+## Changelog
+
+### 0.1.1 (2021-12-13)
+
+- [bugfix] Update CSS Selector to correctly find label
+
+### 0.1.0 (2020-07-26)
+
+- Initial Release
